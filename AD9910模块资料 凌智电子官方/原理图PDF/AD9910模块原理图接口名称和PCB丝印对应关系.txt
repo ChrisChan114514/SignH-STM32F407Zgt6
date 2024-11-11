@@ -1,0 +1,31 @@
+AD9910模块原理图接口名称和PCB丝印对应关系
+
+原理图上标号名称<-->PCB丝印名称
+
+一、P2接口
+PIN_5V	<--> 5V		PIN_5V	<--> 5V
+GND	<--> GND	GND	<--> GND
+IOB_RSO	<--> RSO	IOB_SYNC<--> SYN
+IOB_PF2	<--> PF2	IOB_PF1 <--> PF1
+IOB_PF0	<--> PF0	IOB_OSK	<--> OSK
+IOB_DROVER <--> DRO	IOB_DRCTL <--> DRC
+IOB_DRHOLD <--> DRH	IOB_I/O_UP<--> IUP
+IOB_SDIO<--> SDI	IOB_SCLK<--> SCK
+IOB_CS_N<--> CSN	IOB_SASTER_RESET<--> MRT
+
+二、P1接口
+PIN_5V	<--> 5V		PIN_5V	<--> 5V
+GND	<--> GND	GND	<--> GND
+IOA_D14	<--> D14	IOA_D15 <--> D15
+IOA_D12	<--> D12	IOA_D13 <--> D13
+IOA_D10	<--> D10	IOA_D11	<--> D11
+IOA_D8 	<--> D8		IOA_D9  <--> D9
+IOA_D6 	<--> D6		IOA_D7	<--> D7
+IOA_D4	<--> D4		IOA_D5	<--> D5
+IOA_TXENABLE<--> TE	IOA_PDCLK<--> PC
+IOA_D2	<--> D2		IOA_D3	<--> D3
+IOA_D0	<--> D0		IOA_D1	<--> D1
+IOA_F0	<--> F0		IOA_F1	<--> F1
+
+				凌智电子
+				淘宝官网：https://fzlzdz.taobao.com
